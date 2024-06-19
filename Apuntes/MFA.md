@@ -1,0 +1,1 @@
+`mfarequired`, generalmente indica si se requiere autenticación multifactor (MFA). Si este campo es `true`, el sistema podría requerir un paso adicional de autenticación, como un código OTP (One-Time Password) enviado a un dispositivo del usuario.

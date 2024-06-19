@@ -1,0 +1,1 @@
+**Mass Assignment** es una vulnerabilidad que ocurre cuando una aplicación web permite a los usuarios proporcionar propiedades para crear o actualizar objetos sin ninguna restricción adecuada. Esto puede permitir a un atacante crear o modificar objetos en la aplicación con propiedades no intencionadas, potencialmente explotando la lógica de la aplicación.

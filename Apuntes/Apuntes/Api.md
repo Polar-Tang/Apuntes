@@ -1,0 +1,1 @@
+Es una pieza de código que permite a diferentes aplicacones comunicarse entre sí. También sirve de intermediario entre dos sistemas, que permite que una aplicación se somunique con otra y pida datos o acciones especificas

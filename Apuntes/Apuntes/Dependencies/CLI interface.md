@@ -1,0 +1,1 @@
+CLI encontrada en las interfaces gráficas de diversos sistemas operativos, para ejecutar aplicaciones a través de un intérprete de comandos

@@ -1,0 +1,1 @@
+Bloque de bits que se utiliza pára cifrar el primer bloque de texto plano de un mensaje

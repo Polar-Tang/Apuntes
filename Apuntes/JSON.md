@@ -1,0 +1,1 @@
+JSON (JavaScript Object Notation) es un formato de texto ligero para el intercambio de datos. Es fácil de leer y escribir para los humanos y fácil de analizar y generar para las máquinas.

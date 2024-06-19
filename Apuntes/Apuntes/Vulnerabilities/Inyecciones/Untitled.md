@@ -1,0 +1,1 @@
+Ingresas a la máquina atravez de una explotacion del servidor web, tengo acceso como el usuario administrador de la web, aprovechandote de la inyección de comando logras que la máquina te mande una consola interactiva, con herramientas de escuchas como [[netcat]]

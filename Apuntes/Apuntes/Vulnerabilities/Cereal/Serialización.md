@@ -1,0 +1,1 @@
+Un mecanismo que nos permite transportar [[objetos]] en una red

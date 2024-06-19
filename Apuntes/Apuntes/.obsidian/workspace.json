@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "ada385828967f2d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "13fe79ec6e56983a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81186471d503d1bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Payload/PayLoad staged.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba736f479856507f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enumeración/Enumeración de Sistemas/Systemctl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5efc68a7da4b018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos/Pipsy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8193d877f1a4bbf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Directorios/RuntimeDirectory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "412cfc67ee58ae1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inyecciones/SQL injection/SQL injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc8ffd8e259d831f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inyecciones/SQL injection/SQL injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f12c039aaff17157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inyecciones/SQL injection/SQL injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dccb7f42d92b89ed",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d60f619a949fdf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d471e56ebcf21b79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37b81bee531473c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84e4fa9d19b43975",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19141f9b7b060544",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "aa2d43a279d0fc0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "acc8db7aca5671b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f39ea0b2b636edb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d5a0d2f063f194c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "563d8318b7678ed6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5fb4f907358f2d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dccb7f42d92b89ed",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "borrador.md",
+    "Daemon.md",
+    "Ejecución de un container con apache.md",
+    "Forward Shell.md",
+    "Gestores de Contenidos.md",
+    "Heramientas.md",
+    "Índice.md",
+    "IpAtacante.md",
+    "Netcat.md",
+    "Pasted image 20240522000842.png",
+    "XMLRPC.md",
+    "Payload/Payloads non-staged.md",
+    "Payload/PayLoad staged.md",
+    "Payload/Payload.md",
+    "Inyecciones/Untitled.md",
+    "Inyecciones/SQL injection/mostrar todos los productos.md",
+    "Enumeración/Enumeración de Sistemas/Enumeración de sistemas.md",
+    "Enumeración/Enumeración de Sistemas/Systemctl.md",
+    "Directorios/RuntimeDirectory.md",
+    "Dependencies/Apts.md",
+    "Inyecciones/SQL injection/SQL injection.md",
+    "Inyecciones/SQL injection",
+    "Comandos/pdftotxt.md",
+    "Untitled 1.md",
+    "PID/Comandos para matar el PID.md",
+    "PID/Comando para ver el PID.md",
+    "PID",
+    "Dependencies/Dependencias apache2.md",
+    "Dependencies",
+    "Directorios",
+    "pspy releases.png",
+    "Enumeración/Enumeración de Sistemas",
+    "Enumeración",
+    "Permisos/Capabilities",
+    "Permisos",
+    "Comandos/Metasploit",
+    "Comandos"
+  ]
+}

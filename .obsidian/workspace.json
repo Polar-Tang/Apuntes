@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "375484b9c3a02e07",
+    "type": "split",
+    "children": [
+      {
+        "id": "d09ec3d651abd9bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81870776068f2799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMS/Apuntes/Machines/owaspbwa (LOGIN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83f1a9512121fca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMS/Apuntes/TE EME PE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eca292fe37e0d1bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMS/Apuntes/LDAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d714dc6e26aad7cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0af3e08b3849fb55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7083e55fb0d288f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67ec357637575b2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Abus",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2d7314705b85d1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c6aae6762ba1272",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d11543e3b10aea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3894a462babf166",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CMS/Apuntes/Machines/owaspbwa (LOGIN).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06068a9fed297ea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CMS/Apuntes/Machines/owaspbwa (LOGIN).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f8116b66eb19cf3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11fef1908c7a9050",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CMS/Apuntes/Machines/owaspbwa (LOGIN).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "81870776068f2799",
+  "lastOpenFiles": [
+    "Pasted image 20240619183020.png",
+    "Pasted image 20240619182946.png",
+    "Pasted image 20240619182445.png",
+    "Pasted image 20240619181406.png",
+    "Pasted image 20240619181252.png",
+    "CMS/Apuntes/TE EME PE.md",
+    "CMS/Apuntes/Cereal Machine.md",
+    "CMS/Apuntes/borrador.md",
+    "CMS/Apuntes/Docker-compose.md",
+    "CMS/Apuntes/Ejecución de un container con apache.md",
+    "Untitled.md",
+    "CMS/Apuntes/Machines/owaspbwa (LOGIN).md",
+    "Pasted image 20240619180731.png",
+    "consulta paremetrizada.md",
+    "CMS/Apuntes/LDAP.md",
+    "Pasted image 20240619175248.png",
+    "CMS/Apuntes/Vulnerabilities/Inyecciones/SQL injection/SQL injection 2.md",
+    "CMS/Apuntes/Vulnerabilities/Inyecciones/SQL injection/SQL injection.md",
+    "CMS/Apuntes/Vulnerabilities/LCI/Local File Inclusion.md",
+    "Pasted image 20240619170726.png",
+    "Pasted image 20240619170527.png",
+    "CMS/Apuntes/Vulnerabilities/Abuso de apis.md",
+    "Pasted image 20240619170059.png",
+    "Pasted image 20240619165944.png",
+    "CMS/Apuntes/Vulnerabilities/Inyecciones/SQL injection/Boolean-based blind SQL Injection.md",
+    "CMS/Apuntes/Machines",
+    "mass asignment atack.md",
+    "json web token.md",
+    "CMS/Apuntes/Tipos de Tokens/API Key.md",
+    "CMS/Apuntes/Tipos de Tokens/Oauth Token.md",
+    "CMS/Apuntes/Tipos de Tokens/TokenBearer.md",
+    "CMS/Apuntes/Tipos de Tokens",
+    "CMS/JSON.md",
+    "CMS/MFA.md",
+    "DNS.md",
+    "CMS/Apuntes/Vulnerabilities/Inyecciones/SQL injection/query.md",
+    "CMS/Domain Zone Transfer Atack.md",
+    "CMS/Apuntes/Prototype Pollution.md"
+  ]
+}

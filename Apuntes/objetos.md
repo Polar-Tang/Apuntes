@@ -1,0 +1,2 @@
+Una estructura de datos que contiene información y funcionalidades relacionadas con un concepto o una entidad específica. El objeto como tal está compuesto de una estructura de propiedades y atributos por un lado y métodos por el otro.  Las propiedades o atributo son las caractericticas o propiedades que el objeto modelo.
+Luego los métodos son las acciones que podemos realizar
